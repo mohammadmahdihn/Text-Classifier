@@ -1,2 +1,2 @@
-# Text-classifier
+# Text-Classifier
 Text classification with multiple methods
